@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: left;
+    margin-top: 20px;
+    color: cornflowerblue;
+}
+
+h2{
+    text-align: left;
+    margin-top: 20px;
+    color: rebeccapurple;
+}
+
+p{
+    text-align: left;
+    margin-top: 20px;
+    color: palevioletred;
+}
+
+nav{
+    width: 800px;
+    height: 80px;
+    background-color: white;
+}
